@@ -7,6 +7,8 @@ The consumer credit department of a bank wants to automate the decisionmaking pr
 ### Content: 
 The Home Equity dataset (HMEQ) contains baseline and loan performance information for 5,960 recent home equity loans. The target (BAD) is a binary variable indicating whether an applicant eventually defaulted or was seriously delinquent. This adverse outcome occurred in 1,189 cases (20%). For each applicant, 12 input variables were recorded.
 
+Reference: https://www.kaggle.com/datasets/ajay1735/hmeq-data
+
 ### In the following 8 documents, I used data science skills including machine learning and statistical techniques to predict the default rate and loss amount. The steps are:
 #### Configure library packages formatted for their target environment.
 ### Prepare data using modeling techniques to ensure quality results.
