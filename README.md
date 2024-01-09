@@ -20,15 +20,8 @@ In the following 8 documents, I used data science skills including 'machine lear
 
 ## Documents
 
-### Part 1: Introduction
-#### Installing R Packages
-#### Data Sets Included with “R” 
-#### Basic EDA
-#### “R” Code for EDA
-#### Simple EDA R zip file
 
-
-### Part 2: Data Scrubbing
+### Part 1: Data Scrubbing
 #### R Data Frame Basic Scrubbing
 #### Reading Data into R
 #### Numeric Imputation Using R
@@ -37,37 +30,37 @@ In the following 8 documents, I used data science skills including 'machine lear
 #### The Home Equity dataset for Data Scrubbing
 
 
-### Part 3: Decision Trees
+### Part 2: Decision Trees
 #### Classification Decision Trees
 #### Regression Decision Trees
 #### The Home Equity dataset for Decision Trees
 
 
-### Part 4: Model Validation
+### Part 3: Model Validation
 #### Model Validation
 #### Model Validation, Classification Trees
 #### Model Validation, Regression Trees
 #### The Home Equity dataset for Model Validation
 
 
-### Part 5: Random Forests and Gradient Boosting
+### Part 4: Random Forests and Gradient Boosting
 #### The Home Equity dataset for Random Forests and Gradient Boosting
 #### How to Flag Target
 
 
-### Part 6: Logistic and Linear Regression
+### Part 5: Logistic and Linear Regression
 #### Linear Regression in R
 #### Variable Selection in R
 #### Logistic Regression in R
 #### The Home Equity dataset for Prediction
 
 
-### Part 7: PCA and tSNE
+### Part 6: PCA and tSNE
 #### PCA-tSNE Predictive Models
 #### The Home Equity dataset for PCA and tSNE
 
 
-### Part 8: Cluster Analysis
+### Part 7: Cluster Analysis
 #### The Home Equity dataset for Cluster Analysis
 #### KMeans Clustering
 #### Segmentation in R
