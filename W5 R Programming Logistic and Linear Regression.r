@@ -1,4 +1,4 @@
-#W6 R Programming: Logistic/Linear Regression
+#W5 R Programming: Logistic/Linear Regression
 
 #========================Step 1: Use the Decision Tree / Random Forest / Decision Tree code 
 #from Week 5 as a Starting Point=====================
