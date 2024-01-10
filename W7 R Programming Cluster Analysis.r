@@ -1,6 +1,6 @@
-#W8 R Programming: Cluster Analysis
+#W7 R Programming: Cluster Analysis
 
-#===========Step 1: Use the code from Week 7 as a Starting Point===
+#===========Step 1: Use the code from Week 6 as a Starting Point===
 #In this assignment, we will not be doing all the analysis as before. 
 #But much of the code from week 6 can be used as a starting point for this assignment. 
 #For this assignment, do not be concerned with splitting data into training 
