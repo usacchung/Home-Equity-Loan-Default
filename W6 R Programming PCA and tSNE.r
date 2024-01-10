@@ -1,4 +1,4 @@
-#W7 R Programming: PCA and TSNE
+#W6 R Programming: PCA and TSNE
 
 #========================Step 1: Use the Decision Tree / Random Forest / Decision Tree / Regression code 
 #from Week 6 as a Starting Point=====================
